@@ -8,11 +8,11 @@
 
 ---
 [Graffiti](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/images/Graffiti.png?raw=true"/>
 
 ---
 [Rippled Effect](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/images/RippledPaper.jpg?raw=true"/>
 
 ---
 

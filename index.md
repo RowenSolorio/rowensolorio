@@ -4,7 +4,7 @@
 
 ### My Creative Works
 [Galaxy Cat](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/GalaxyCat.jpg?raw=true"/>
 
 ---
 [Graffiti](/pdf/sample_presentation.pdf)

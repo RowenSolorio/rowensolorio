@@ -16,6 +16,12 @@
 
 [Double Exposure](http://example.com/)
 <img src="/images/DoubleExposure.png?raw=true"/>
+
+[Retro Collage](http://example.com/)
+<img src="/images/RetroCollage.png?raw=true"/>
+
+[Earth Day Poster](http://example.com/)
+<img src="/images/EarthDayPoster.jpg?raw=true"/>
 ---
 
 

@@ -14,7 +14,7 @@
 [Rippled Effect](http://example.com/)
 <img src="/images/RippledPaper.jpg?raw=true"/>
 
-[DoubleExposure](http://example.com/)
+[Double Exposure](http://example.com/)
 <img src="/images/DoubleExposure.png?raw=true"/>
 ---
 

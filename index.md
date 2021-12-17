@@ -14,17 +14,12 @@
 [Rippled Effect](http://example.com/)
 <img src="/images/RippledPaper.jpg?raw=true"/>
 
+[DoubleExposure](http://example.com/)
+<img src="/images/DoubleExposure.png?raw=true"/>
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
----
 
 
 
